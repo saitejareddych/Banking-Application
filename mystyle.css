@@ -1,0 +1,57 @@
+@CHARSET "ISO-8859-1";
+#cLogin
+{
+	background-color:white;
+	padding:10%;
+	padding-right: 20%;
+    border-radius: 10px;
+}
+#uLogin
+{
+	background-color:white;
+	padding:10%;
+	padding-right:20%;
+	border-radius: 10px;
+}
+body {
+	background-color:#f9fbe7;
+}
+#main
+{
+	background-color:#e6ee9c;
+	padding-left:0;
+	padding-right:0;
+}
+#chmain,#ft
+{
+	background-color:#e6ee9c;
+	padding-top:0;
+	padding-bottom:0;
+	padding-left:0;
+	padding-right:0;
+
+}
+#userRegister,#statement,#fundTransfer,#bankerRegister
+{ 
+	
+	background-color:white;
+    border-radius: 10px;
+    padding-left:10%;
+    padding-top:2%;
+    padding-bottom:2%;
+	padding-right:10%;
+	
+}
+
+
+#img1{
+	height:100px;
+	width:200px;
+}
+
+form
+{
+	display : inline;
+}
+
+
